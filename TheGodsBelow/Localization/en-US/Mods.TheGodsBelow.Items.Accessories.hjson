@@ -1,0 +1,21 @@
+PhoenixsBlessing: {
+	DisplayName: Phoenix's Blessing
+	Tooltip:
+		'''
+		Gives the blessing of the phoenix
+		5% damage reduction
+		15% increased melee damage and crit chance
+		+5 melee armor penetration
+		If reduced to 1 HP you will be restored to half HP
+		This effect has a 5 minute cooldown.
+		'''
+}
+
+Serenity: {
+	DisplayName: Serenity
+	Tooltip:
+		'''
+		Grants 40% damage reduction but decreases damage dealt by 60%
+		Disables natural life regen
+		'''
+}
