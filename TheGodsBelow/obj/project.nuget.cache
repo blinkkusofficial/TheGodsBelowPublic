@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNrE5KnRPdyamwnZifSaA/u/Gghq+iASzVBf991Y/jk938aBgnyyhOVMhxwd6ZNSiVVAorRJ7XJlFxwqN4+HRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jack Beard\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TheGodsBelow\\TheGodsBelow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack Beard\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

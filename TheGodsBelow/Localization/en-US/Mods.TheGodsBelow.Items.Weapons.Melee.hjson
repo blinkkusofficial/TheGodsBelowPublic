@@ -1,0 +1,24 @@
+GalacticBaseballBat: {
+	DisplayName: Galactic Baseball Bat
+	Tooltip: A weapon forged from the fragments of another universe
+}
+
+LucentMoonglow: {
+	DisplayName: Lucent Moonglow
+	Tooltip: The blade's reflection illuminates the past.
+}
+
+ShardSword: {
+	DisplayName: Shard Sword
+	Tooltip: The blade's power is unforgiving.
+}
+
+SplittingSword: {
+	DisplayName: Splitting Sword
+	Tooltip:
+		'''
+		A sword that shoots a projectile that splits into more projectiles
+		that do not split.
+		[c/ff00ff:- Developer Item -]
+		'''
+}

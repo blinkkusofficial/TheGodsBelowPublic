@@ -1,0 +1,73 @@
+ScorchedJournal: {
+	DisplayName: Scorched Journal
+	Tooltip: Blank for now :3
+}
+
+ThreadingFragrance: {
+	DisplayName: Threading Fragrance
+	Tooltip:
+		'''
+		Quite the fancy style of guitar.
+		Upon use, gives the Fragrance buff which increases damage by 
+		6%, movement speed by 8%, and boosts life regen by 2.
+		'''
+}
+
+TyrantsJournalI: {
+	DisplayName: Tyrant's Journal I
+	Tooltip:
+		'''
+		The screams echo out through the fire. What are these screams? Why
+		are they here? Who... no, what is screaming? There are so many questions
+		I have. These screams are more like roars. I can feel eyes on me now. I
+		don't know if I should be intimidated, but I definitley am. 
+		'''
+}
+
+TyrantsJournalII: {
+	DisplayName: Tyrant's Journal II
+	Tooltip:
+		'''
+		I now know the source of these roars. It is from a dragon, the one thing I
+		cannot defeat. I'm currently hiding in a temple I've found down here in
+		hell. The roars get closer and closer by the second.
+		'''
+}
+
+TyrantsJournalIII: {
+	DisplayName: Tyrant's Journal III
+	Tooltip:
+		'''
+		I met the dragon. I did not fight it, neither did it attack me at all. A
+		truly interesting situation to be in. His name is Yharon. From what I have
+		been able to gather, he is a dragon of rebirth. He will definitley aid me
+		in my quest here at the bottom of the world, especially with the giant
+		lava pools everywhere.
+		'''
+}
+
+TyrantsJournalIV: {
+	DisplayName: Tyrant's Journal IV
+	Tooltip:
+		'''
+		My theory was correct, Yharon is exactly what I think he is. His golden
+		wings flap like none I have ever seen before. It is truly intruiging. 
+		There is a lot of power behind each movement, so much that it scares me.
+		'''
+}
+
+TyrantsJournalV: {
+	DisplayName: Tyrant's Journal V
+	Tooltip:
+		'''
+		I have ascended. I have found the key to becoming immortal. There is no
+		one or thing that could even dream of defeating me. Yharon has become
+		my companion, and his power will grow with mine. There is one I have been
+		eyeing, however. Their journey is making good progress very fast. It
+		scares me to a certain extent. This person is.. interesting. They falter
+		extremely often, yet they always seem to be able to get back up to their
+		feet without a problem. This is the only thing that scares me, the 
+		potential of their power... it knows no bounds. This will be my final
+		entry to my journal, truly fascinating what I have seen.
+		'''
+}

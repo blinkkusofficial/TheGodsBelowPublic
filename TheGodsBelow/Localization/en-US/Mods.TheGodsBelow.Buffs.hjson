@@ -1,0 +1,9 @@
+Fragrance: {
+	DisplayName: Fragrance
+	Description: 6% increased damage, 8% increased movement speed and boosts life regen by 2
+}
+
+Tyranny: {
+	DisplayName: Tyranny
+	Description: 15% increased damage but 50% reduced defense
+}

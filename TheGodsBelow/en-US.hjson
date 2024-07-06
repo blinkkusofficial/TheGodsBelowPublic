@@ -1,0 +1,12 @@
+Mods: {
+	TheGodsBelow: {
+		Items: {
+			TreasureBags: {
+				YharimBag: {
+					DisplayName: Yharim Bag
+					Tooltip: ""
+				}
+			}
+		}
+	}
+}

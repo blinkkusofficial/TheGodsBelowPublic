@@ -1,0 +1,4 @@
+author = blinkkus
+version = 0.3
+displayName = The Gods Below
+modReferences = CalamityMod
